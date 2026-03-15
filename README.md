@@ -24,7 +24,7 @@
 
 ---
 
-## 🌌 About Me
+## 🎀 About Me
 
 ```javascript
 const shrishti = {
@@ -42,7 +42,6 @@ const shrishti = {
 
 <div align="center"
 | ☕ Coffee | 🧠 Psychology | ❤️ Travel | 📷 Photography |
-|:---:|:---:|:---:|:---:|:---:|
 | My life source | Minds fascinate me | Every place teaches | Capturing quiet moments |
 
 </div>
