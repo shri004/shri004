@@ -31,21 +31,19 @@ const shrishti = {
   role      : "MERN Stack Developer & MCA Student",
   code      : ["JavaScript", "React", "Node.js", "Express", "MongoDB"],
   fuelled_by: "☕ Coffee — always, without exception",
-  loves     : ["Exploring life's big questions 🌍", "Psychology & the human mind 🧠",
-               "Environment & the natural world 🌿", "Travelling to new places ✈️",
-               "Writing blogs & poems ✍️", "Photography 📷", "Reading books 📚"],
+  loves     : [ "Psychology & the human mind 🧠", "Travelling to new places ❤️",
+                "Writing blogs & poems ✍️", "Photography 📷", "Reading books 📚"],
   currently : "Building things, breaking them, learning from both 🔁",
-  funFact   : "Best ideas arrive mid-coffee, mid-trail, or at 2 AM 🌙"
+  funFact   : "Best ideas arrive mid-coffee, mid-trail, or at 3 AM 🌙"
 };
 ```
 
 <br/>
 
-<div align="center">
-
-| ☕ Coffee | 🧠 Psychology | 🌿 Environment | ✈️ Travel | 📷 Photography |
+<div align="center"
+| ☕ Coffee | 🧠 Psychology | ❤️ Travel | 📷 Photography |
 |:---:|:---:|:---:|:---:|:---:|
-| My life source | Minds fascinate me | Earth matters deeply | Every place teaches | Capturing quiet moments |
+| My life source | Minds fascinate me | Every place teaches | Capturing quiet moments |
 
 </div>
 
@@ -93,7 +91,7 @@ An intelligent finance management platform that tracks expenses, analyses spendi
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
-    </td>
+  "  </td>
     <td width="33%" align="center">
 
 ### 🫀 ECG Platform
@@ -107,19 +105,19 @@ An AI-driven clinical support platform for ECG analysis — helping medical prof
 
 `🔬 Active Build`
 
-    </td>
+  "  </td>
     <td width="33%" align="center">
 
 ### 🎯 PlaceraX
 `AI Placement Guidance`
 
-Your AI mentor for placement prep — personalised roadmaps, mock guidance, and tools to crack campus and off-campus hiring with confidence.
+Your AI mentor for placement prep — personalised roadmaps, mock guidance, and tools to crack campus and off-campus hiring .
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
 
-    </td>
+   " </td>
   </tr>
 </table>
 
@@ -164,8 +162,7 @@ Your AI mentor for placement prep — personalised roadmaps, mock guidance, and 
 🧠  Currently learning:  Something about the human mind or how the world works
 ✍️  Last written      :  A blog or a poem — both feel like exhaling
 📷  Behind the lens   :  Finding stillness in moving places
-🌿  Thinking about    :  How everything in nature is quietly connected
-✈️  Next destination  :  Somewhere new, somewhere that shifts my perspective
+❤️  Next destination  :  Somewhere new, somewhere that shifts my perspective
 ```
 
 </div>
@@ -174,9 +171,9 @@ Your AI mentor for placement prep — personalised roadmaps, mock guidance, and 
 
 <div align="center">
 
-| 🎌 Anime | ✍️ Blogs & Poems | 📷 Photography | 📚 Reading | 🌿 Nature & Environment |
+| 🎌 Anime | ✍️ Blogs & Poems | 📷 Photography | 📚 Reading |
 |:---:|:---:|:---:|:---:|:---:|
-| Worlds that inspire mine | Words as a second language | Frames over filters | Fiction & non-fiction both | Earth deserves more curiosity |
+| Worlds that inspire mine | Words as a second language | Frames over filters | Fiction & non-fiction both |
 
 </div>
 
@@ -218,6 +215,6 @@ Your AI mentor for placement prep — personalised roadmaps, mock guidance, and 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn" width="100%" />
 
-*✦ Built with curiosity, strong coffee, and a love for the world ✦*
+*✦ Built with curiosity, strong coffee, and a love for new experiences ✦*
 
 </div>
