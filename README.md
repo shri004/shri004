@@ -171,7 +171,6 @@ Your AI mentor for placement prep — personalised roadmaps, mock guidance, and 
 <div align="center">
 
 | 🎌 Anime | ✍️ Blogs & Poems | 📷 Photography | 📚 Reading |
-|:---:|:---:|:---:|:---:|:---:|
 | Worlds that inspire mine | Words as a second language | Frames over filters | Fiction & non-fiction both |
 
 </div>
