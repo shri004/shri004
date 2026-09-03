@@ -78,19 +78,3 @@ AI-assisted placement preparation platform focused on learning roadmaps, prepara
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/a6mJGMr4RW/)
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/mca_reg202527246)
-
-## GitHub Statistics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=shri004&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" height="165" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shri004&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" height="165" />
-
-</div>
-
-## Contact
-
-- LinkedIn: [shrishti412](https://www.linkedin.com/in/shrishti412/)
-- Email: [shrishti4.dev@gmail.com](mailto:shrishti4.dev@gmail.com)
-- GitHub: [shri004](https://github.com/shri004)
